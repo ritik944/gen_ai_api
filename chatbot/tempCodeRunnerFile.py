@@ -1,0 +1,1 @@
+Ollama pull llama3 
